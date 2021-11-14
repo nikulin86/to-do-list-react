@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/to-do-list-react/static/css/main.577e12cb.chunk.css",
+    "main.js": "/to-do-list-react/static/js/main.e71195c5.chunk.js",
+    "main.js.map": "/to-do-list-react/static/js/main.e71195c5.chunk.js.map",
+    "runtime-main.js": "/to-do-list-react/static/js/runtime-main.642fe819.js",
+    "runtime-main.js.map": "/to-do-list-react/static/js/runtime-main.642fe819.js.map",
+    "static/js/2.afba331a.chunk.js": "/to-do-list-react/static/js/2.afba331a.chunk.js",
+    "static/js/2.afba331a.chunk.js.map": "/to-do-list-react/static/js/2.afba331a.chunk.js.map",
+    "static/js/3.662b156c.chunk.js": "/to-do-list-react/static/js/3.662b156c.chunk.js",
+    "static/js/3.662b156c.chunk.js.map": "/to-do-list-react/static/js/3.662b156c.chunk.js.map",
+    "index.html": "/to-do-list-react/index.html",
+    "static/css/main.577e12cb.chunk.css.map": "/to-do-list-react/static/css/main.577e12cb.chunk.css.map",
+    "static/js/2.afba331a.chunk.js.LICENSE.txt": "/to-do-list-react/static/js/2.afba331a.chunk.js.LICENSE.txt",
+    "static/media/Vector.a862c15f.svg": "/to-do-list-react/static/media/Vector.a862c15f.svg",
+    "static/media/close.ac7b9278.svg": "/to-do-list-react/static/media/close.ac7b9278.svg",
+    "static/media/pen.d48cb023.svg": "/to-do-list-react/static/media/pen.d48cb023.svg",
+    "static/media/plus.bb82cf25.svg": "/to-do-list-react/static/media/plus.bb82cf25.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.642fe819.js",
+    "static/js/2.afba331a.chunk.js",
+    "static/css/main.577e12cb.chunk.css",
+    "static/js/main.e71195c5.chunk.js"
+  ]
+}
